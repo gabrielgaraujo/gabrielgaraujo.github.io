@@ -1,3 +1,16 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
-title: "" # the name of your site, e.g. ACME Corp.
+title: Gabriel Araujo
+url: 'https://garaujo.dev.br'
+description: >
+  As software engineers, we have to regularly sharpen our knowledge and keep up
+  to date with new technologies out there. This website keeps my thoughts and
+  learnings organized and accessible to anyone interested in the same subjects.
+author:
+  name: Gabriel Araujo
+  email: gabriel@garaujo.dev.br
+social:
+  github:
+    username: gabrielgaraujo
+  twitter:
+    username: gabrielgaraujo
+  linkedin:
+    username: gabrielgaraujo
